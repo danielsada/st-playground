@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Eya and Seif")
+st.title("Eya and Seyf")
 if st.checkbox("Hello"):
  if st.checkbox("everyone"):
   if st.checkbox("I'm"):
@@ -8,7 +8,7 @@ if st.checkbox("Hello"):
     if st.checkbox("and"):
      if st.checkbox("this"):
       if st.checkbox("is"):
-       if st.checkbox("seif"):
+       if st.checkbox("seyf"):
         if st.checkbox("we both"):
          if st.checkbox("wanted"):
           if st.checkbox("to"):
